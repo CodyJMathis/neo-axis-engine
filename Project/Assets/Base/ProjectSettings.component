@@ -1,0 +1,53 @@
+.component NeoAxis.ProjectSettingsComponent
+{
+	Name = Root
+	.component NeoAxis.ProjectSettingsPage_General
+	{
+		Name = General
+		Theme = Dark
+	}
+	.component NeoAxis.ProjectSettingsPage_SceneEditor
+	{
+		Name = Scene Editor
+	}
+	.component NeoAxis.ProjectSettingsPage_UIEditor
+	{
+		Name = UI Editor
+	}
+	.component NeoAxis.ProjectSettingsPage_CSharpEditor
+	{
+		Name = C# Editor
+	}
+	.component NeoAxis.ProjectSettingsPage_ShaderEditor
+	{
+		Name = Shader Editor
+	}
+	.component NeoAxis.ProjectSettingsPage_TextEditor
+	{
+		Name = Text Editor
+	}
+	.component NeoAxis.ProjectSettingsPage_Colors
+	{
+		Name = Colors
+	}
+	.component NeoAxis.ProjectSettingsPage_Preview
+	{
+		Name = Preview
+	}
+	.component NeoAxis.ProjectSettingsPage_RibbonAndToolbar
+	{
+		Name = Ribbon and Toolbar
+	}
+	.component NeoAxis.ProjectSettingsPage_Shortcuts
+	{
+		Name = Shortcuts
+	}
+	.component NeoAxis.ProjectSettingsPage_Rendering
+	{
+		Name = Rendering
+	}
+	.component NeoAxis.ProjectSettingsPage_Repository
+	{
+		Name = Repository
+	}
+}

@@ -25169,7 +25169,7 @@
             <summary>
             
             </summary>
-            <param name="matrixCount">Количество матриц в return value. Оно на 1 больше чем интервалов.</param>
+            <param name="matrixCount">Êîëè÷åñòâî ìàòðèö â return value. Îíî íà 1 áîëüøå ÷åì èíòåðâàëîâ.</param>
             <param name="circumference"></param>
             <param name="offset"></param>
             <returns></returns>

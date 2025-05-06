@@ -56,3 +56,11 @@ ipch/
 # NeoAxis
 _Compilation/
 
+/_build
+/Project/Binaries
+/Project/Caches
+/Sources/Engine/Lib
+/Project/Binaries
+/Project/User settings/Logs
+/Project/Binaries/NeoAxis.Internal
+*.cache
